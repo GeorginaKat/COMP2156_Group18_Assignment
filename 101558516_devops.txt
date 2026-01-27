@@ -12,3 +12,6 @@ Automation reduces manual work and improves deployment consistency.
 
 Automated pipelines help ensure reliable deployments across different environments.
 Version control allows teams to track changes and fix issues quickly.
+
+DevOps also improves security by integrating checks into the development process.
+Code reviews and automated testing help maintain high software quality.
