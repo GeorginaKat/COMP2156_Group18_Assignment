@@ -9,3 +9,6 @@ CI/CD also improves code quality by running automated checks before deployment.
  
 DevOps tools help teams collaborate better by sharing code through GitHub.
 Automation reduces manual work and improves deployment consistency.
+
+Automated pipelines help ensure reliable deployments across different environments.
+Version control allows teams to track changes and fix issues quickly.
