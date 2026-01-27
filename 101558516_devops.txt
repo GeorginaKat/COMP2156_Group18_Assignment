@@ -2,3 +2,7 @@ COMP2156 DevOps course teaches version control using Git and GitHub.
 We learn branching, merging and collaboration in group repositories.
 The course also introduces CI/CD concepts like GitHub Actions to automate builds and tests.
 DevOps helps teams deliver software faster with better quality and fewer errors.
+
+GitHub Actions is used to automate testing and deployment in DevOps projects.
+CI/CD helps teams deliver updates faster while reducing manual errors.
+CI/CD also improves code quality by running automated checks before deployment.
