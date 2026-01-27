@@ -1,0 +1,4 @@
+DevOps plays an important role in the Software Development Life Cycle. 
+It helps in continuous integration, testing and deployment. 
+DevOps engineers support faster development and reliable releases. 
+Learning DevOps is important for building modern software systems.
