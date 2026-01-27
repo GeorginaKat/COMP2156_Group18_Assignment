@@ -6,3 +6,6 @@ DevOps helps teams deliver software faster with better quality and fewer errors.
 GitHub Actions is used to automate testing and deployment in DevOps projects.
 CI/CD helps teams deliver updates faster while reducing manual errors.
 CI/CD also improves code quality by running automated checks before deployment.
+ 
+DevOps tools help teams collaborate better by sharing code through GitHub.
+Automation reduces manual work and improves deployment consistency.
