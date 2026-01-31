@@ -6,3 +6,4 @@ Deployment: The finished application is pushed to servers for users to access.
 Maintenance: Ongoing updates keep the software secure and functional over time.
 Importance: DevOps breaks down silos to create a unified, efficient delivery team.
 Speed: Automated pipelines enable teams to ship updates to customers daily.
+Collaboration: Shared tools and goals ensure developers and operations work as one.
