@@ -3,3 +3,6 @@ Coding: Developers build the product features according to the design specs.Plan
 Analysis: Gather requirements to ensure the software solves the right user problems.
 Testing: QA teams find bugs and verify the code meets quality standards.
 Deployment: The finished application is pushed to servers for users to access.
+Maintenance: Ongoing updates keep the software secure and functional over time.
+Importance: DevOps breaks down silos to create a unified, efficient delivery team.
+Speed: Automated pipelines enable teams to ship updates to customers daily.
