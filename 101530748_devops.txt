@@ -4,3 +4,4 @@ GitHub Actions executes these workflows directly inside your repository.
 Workflows are YAML files that define your automation steps.
 Events (like a push) trigger your automation to run.
 Jobs group tasks that run on virtual servers called Runners.
+Automation reduces human error and speeds up release cycles.
