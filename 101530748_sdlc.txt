@@ -1,1 +1,2 @@
 Planning: Define goals, scope, and resources before writing a single line of code.
+Analysis: Gather requirements to ensure the software solves the right user problems.
