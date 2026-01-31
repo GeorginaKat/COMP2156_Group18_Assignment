@@ -1,2 +1,3 @@
-Planning: Define goals, scope, and resources before writing a single line of code.
+Design: Architects create the technical blueprint for the system and database.
+Coding: Developers build the product features according to the design specs.Planning: Define goals, scope, and resources before writing a single line of code.
 Analysis: Gather requirements to ensure the software solves the right user problems.
