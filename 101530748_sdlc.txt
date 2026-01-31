@@ -1,0 +1,1 @@
+Planning: Define goals, scope, and resources before writing a single line of code.
