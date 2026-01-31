@@ -1,0 +1,2 @@
+DevOps automates the gap between coding and deployment.
+CI/CD streamlines building, testing, and shipping code automatically.
