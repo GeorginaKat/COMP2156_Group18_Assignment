@@ -1,2 +1,4 @@
 DevOps automates the gap between coding and deployment.
 CI/CD streamlines building, testing, and shipping code automatically.
+GitHub Actions executes these workflows directly inside your repository.
+Workflows are YAML files that define your automation steps.
