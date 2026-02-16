@@ -1,0 +1,9 @@
+Design: Architects create the technical blueprint for the system and database.
+Coding: Developers build the product features according to the design specs.Planning: Define goals, scope, and resources before writing a single line of code.
+Analysis: Gather requirements to ensure the software solves the right user problems.
+Testing: QA teams find bugs and verify the code meets quality standards.
+Deployment: The finished application is pushed to servers for users to access.
+Maintenance: Ongoing updates keep the software secure and functional over time.
+Importance: DevOps breaks down silos to create a unified, efficient delivery team.
+Speed: Automated pipelines enable teams to ship updates to customers daily.
+Collaboration: Shared tools and goals ensure developers and operations work as one.
