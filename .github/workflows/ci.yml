@@ -28,4 +28,4 @@ jobs:
       - name: List files
         run: |
           echo "Success, Files in Repo":
-          ls-la
+          ls -la
