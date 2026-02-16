@@ -26,6 +26,4 @@ jobs:
         run: npm test
 
       - name: List files
-        run: |
-          echo "Success, Files in Repo":
-          ls -la
+        run: ls -la
