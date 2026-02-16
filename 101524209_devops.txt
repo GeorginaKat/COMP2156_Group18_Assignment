@@ -1,0 +1,7 @@
+# About Comp2156 (DevOps for System Administartion)
+
+Comp2156 focuses on DevOps principals and practices used in modern software deployment. 
+The course teaches students how to use version control, automation, and continuous integration between 
+development and operations teams. It emphasizes real-world workflows using Git, GitHub, and CI/CD
+pipelines to help students understand how teams collaborate to build, test, and deploy reliable
+software. 
