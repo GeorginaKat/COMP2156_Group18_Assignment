@@ -1,4 +1,4 @@
 DEVOPS COURSE INFORMATION
 Course: COMP 2156
 Professor: Pritesh Patel
-Term: Winter 2026
+Semester: Winter 2026
