@@ -1,0 +1,37 @@
+DEVOPS PRACTICES:
+- Important DevOps Acronyms: 
+
+CI/CD (Continuous Integration/Continuous Delivery/Deployment): Automates the software delivery process, from code commit to testing and deployment, to increase release frequency.
+
+IaC (Infrastructure as Code): Manages and provisions infrastructure through machine-readable definition files rather than physical hardware configuration.
+
+CALMS: Represents the key pillars of DevOps: Culture, Automation, Lean, Measurement, and Sharing.
+
+SRE (Site Reliability Engineering): Uses software to manage systems, automate operational tasks, and solve problems.
+
+DevSecOps: Integrates security practices into every stage of the DevOps pipeline.
+
+ARA (Application Release Automation): Tools and processes that manage the deployment of applications from testing to production.
+
+MTTR (Mean Time to Repair/Recovery): A key metric measuring the time required to fix a failure and restore service.
+
+KPI (Key Performance Indicator): Measurable values used to gauge the success of DevOps processes.
+
+CaaS (Containers-as-a-Service): Cloud services for managing and deploying containerized applications.
+
+K8s (Kubernetes): An open-source system for automating deployment, scaling, and management of containerized applications.
+
+- Common DevOps Roles
+DevOps Engineer: Focuses on bridging the gap between development and operations, managing infrastructure, and automating processes.
+
+Site Reliability Engineer (SRE): Applies software engineering principles to infrastructure and operations, focusing on system uptime, monitoring, and incident response.
+
+Automation Architect: Designs, implements, and manages automation frameworks and tools to minimize manual tasks.
+
+DevSecOps Engineer: Integrates security practices into the CI/CD pipeline, ensuring compliance and security from the start.
+
+Platform Engineer: Builds and manages internal platforms to enable self-service capabilities for developers.
+
+Release Manager: Oversees the coordination and scheduling of software releases, ensuring smooth deployment.
+
+Cloud Engineer: Focuses on designing, building, and maintaining infrastructure in cloud environments.
