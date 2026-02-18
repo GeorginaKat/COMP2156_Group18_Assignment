@@ -1,4 +1,4 @@
-DEVOPS PRACTICES:
+Software Development Lifecycle:
 Learning DevOps engineering is essential in the software development lifecycle because it bridges the gap between development and operations, enabling faster and more reliable software delivery. 
 By automating processes like continuous integration and deployment, DevOps reduces manual errors and accelerates release cycles. 
 It fosters collaboration and shared responsibility, ensuring quality is built into every phase from planning to maintenance. 
