@@ -1,0 +1,13 @@
+DEVOPS COURSE INFORMATION:
+
+Course: COMP 2156
+Professor: Pritesh Patel
+Semester: Winter 2026
+
+COURSE TOPICS:
+- Version Control (Git)
+- CI/CD Pipelines
+- GitHub Actions
+- Containers
+- Configuration Management
+- Transition into the role of DevOps

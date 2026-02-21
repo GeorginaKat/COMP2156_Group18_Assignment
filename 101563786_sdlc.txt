@@ -1,0 +1,1 @@
+DevOps is crucial in the Software Development Life Cycle (SDLC). It ensures continuous integration, continuous deployment, and better collaboration between development and operations. Learning DevOps helps in automating tasks, improving code quality, and delivering software faster and more reliably.
